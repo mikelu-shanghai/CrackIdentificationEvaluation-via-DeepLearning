@@ -1,6 +1,6 @@
 ## The paper is still under review, anyone who are intrested in 
-can leave me a message via Github, Email or LinkedIn below. 
-(Coming on the way ... ...)
+## can leave me a message via Github, Email or LinkedIn below. 
+## (Coming on the way ... ...)
 
 
 
