@@ -1,4 +1,4 @@
-## The paper is still under review, anyone who are intrested in can leave me a message via Github or Email below. 
+## The paper is under decision, anyone who are intrested in can leave me a message via Github or Email below. 
 ## (Coming on the way ... ...)
 
 
