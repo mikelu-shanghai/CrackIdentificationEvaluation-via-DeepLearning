@@ -5,9 +5,8 @@
   author={Kai-liang Lu},
   journal={ArXiv},
   year={2021},
-  volume={abs/2112.10390},
-  url={https://ebooks.iospress.nl/volumearticle/62393}
-}[[link](https://zhuanlan.zhihu.com/p/37074222)]
+  volume={abs/2112.10390}
+}[[CECNet2022](https://ebooks.iospress.nl/volumearticle/62393)]
 
 @article{Lu2020AdvancesID,
   title={Advances in deep learning methods for pavement surface crack detection and identification with visible light visual images},
