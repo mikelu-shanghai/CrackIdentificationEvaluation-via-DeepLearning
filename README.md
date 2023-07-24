@@ -1,10 +1,6 @@
-## The paper is under decision, anyone who are intrested in can leave me a message via Github or Email below. 
-## (Coming on the way ... ...)
-
-
-
 # MENU
 ## Paper
+
 
 ## Dataset
 
@@ -31,4 +27,4 @@
 ## Contact & Feedback
 If you have any question or suggestion, please feel free to tell me:
 - Github: [[Pull requests]](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/pulls)
-- E-mail & Skype: 2281514845@qq.com
+- E-mail & Skype: lukailiang@163.com & 2281514845@qq.com
