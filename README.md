@@ -6,7 +6,7 @@
   journal={ArXiv},
   year={2021},
   volume={abs/2112.10390},
-  url={https://ebooks.iospress.nl/volumearticle/62393},
+  url={https://ebooks.iospress.nl/volumearticle/62393}
 }
 
 @article{Lu2020AdvancesID,
@@ -15,7 +15,7 @@
   journal={ArXiv},
   year={2020},
   volume={abs/2012.14704},
-  url={https://doi.org/10.48550/arXiv.2012.14704},
+  url={https://doi.org/10.48550/arXiv.2012.14704}
 }
 
 # [TODO]
