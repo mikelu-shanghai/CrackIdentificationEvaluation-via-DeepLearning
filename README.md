@@ -26,7 +26,7 @@
 !["TL-SSGAN_Framework.png"](https://github.com/mikelu-shanghai/CrackIdentificationEvaluation-via-DeepLearning/blob/master/TL-SSGAN_Framework.png)
 
 ## Code
-"Code.zip"
+!["Code.zip"](https://github.com/mikelu-shanghai/CrackIdentificationEvaluation-via-DeepLearning/blob/master/Code.zip)
 
 ## Performance
 
