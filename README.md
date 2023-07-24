@@ -14,7 +14,7 @@
   journal={ArXiv},
   year={2020},
   volume={abs/2012.14704}
-}[[arXiv](https://doi.org/10.48550/arXiv.2012.14704)][[CES2022v44i04](http://manu46.magtech.com.cn/ces/CN/Y2022/V44/I04/674)]
+}[[arXiv](https://doi.org/10.48550/arXiv.2012.14704)]
 
 # [TODO]
 ## Dataset
