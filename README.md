@@ -1,5 +1,5 @@
 # MENU
-## Paper
+## Paper Citations
 @article{Lu2021EvaluationAC,
   title={Evaluation and Comparison of Deep Learning Methods for Pavement Crack Identification with Visual Images},
   author={Kai-liang Lu},
