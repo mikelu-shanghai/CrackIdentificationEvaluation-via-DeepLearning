@@ -22,7 +22,7 @@
 ## Dataset
 
 ## Framework
-![TL-SSGAN Framework Overview](https://github.com/mikelu-shanghai/CrackIdentificationEvaluation-via-DeepLearning/blob/master/TL-SSGAN_Framework.png)
+![TL-SSGAN Framework Overview: TL-SSGAN_Framework.png](https://github.com/mikelu-shanghai/CrackIdentificationEvaluation-via-DeepLearning/blob/master/TL-SSGAN_Framework.png)
 
 ## Code
 
