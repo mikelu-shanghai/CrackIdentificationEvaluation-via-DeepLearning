@@ -6,7 +6,7 @@
   journal={ArXiv},
   year={2021},
   volume={abs/2112.10390}
-}[[CECNet2022](https://ebooks.iospress.nl/volumearticle/62393)]
+}[[CECNet2022](https://ebooks.iospress.nl/volumearticle/62393)][[arXiv](https://arxiv.org/abs/2112.10390)]
 
 @article{Lu2020AdvancesID,
   title={Advances in deep learning methods for pavement surface crack detection and identification with visible light visual images},
@@ -14,7 +14,7 @@
   journal={ArXiv},
   year={2020},
   volume={abs/2012.14704}
-}[[arXiv](https://doi.org/10.48550/arXiv.2012.14704)]
+}[[arXiv](https://doi.org/10.48550/arXiv.2012.14704)][[CES2022v44i04](http://manu46.magtech.com.cn/ces/CN/Y2022/V44/I04/674)]
 
 # [TODO]
 ## Dataset
