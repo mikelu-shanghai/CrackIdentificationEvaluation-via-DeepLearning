@@ -8,7 +8,7 @@
   year={2025},
   volume={35},
   pages={19--30}
-}[[CECNet2022](https://ebooks.iospress.nl/volumearticle/62393)]
+}
 
 @article{Lu2021EvaluationAC,
   title={Evaluation and Comparison of Deep Learning Methods for Pavement Crack Identification with Visual Images},
@@ -16,7 +16,7 @@
   journal={ArXiv},
   year={2021},
   volume={abs/2112.10390}
-}[[arXiv](https://arxiv.org/abs/2112.10390)]
+}[[arXiv](https://arxiv.org/abs/2112.10390)][[CECNet2022](https://ebooks.iospress.nl/volumearticle/62393)]
 
 @article{Lu2020AdvancesID,
   title={Advances in deep learning methods for pavement surface crack detection and identification with visible light visual images},
