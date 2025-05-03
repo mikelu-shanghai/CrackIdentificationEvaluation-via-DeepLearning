@@ -7,7 +7,8 @@
   journal={Pattern Recognit. Image Anal.},
   year={2025},
   volume={35},
-  pages={19--30}
+  pages={19--30},
+  url={https://doi.org/10.1134/S1054661824701426}
 }
 
 @article{Lu2021EvaluationAC,
@@ -47,6 +48,7 @@
 
 ---
 ## Contact & Feedback
-If you have any question or suggestion, please feel free to tell me:
+If you have any question or suggestion, please feel free to contact:
 - Github: [[Pull requests]](https://github.com/mikelu-shanghai/TypicalCNN-ModelEvolution/pulls)
+- Anastasia S. Zakharova: pria@ccas.ru
 - E-mail & Skype: lukailiang@163.com & 2281514845@qq.com
