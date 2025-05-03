@@ -28,7 +28,6 @@
 
 # TL-SSGAN
 
-## [TODO]
 ## Dataset
 [[SDNET2018 download](https://digitalcommons.usu.edu/all_datasets/48/)]
 
@@ -37,15 +36,6 @@
 
 ## Code
 !["Code.zip"](https://github.com/mikelu-shanghai/CrackIdentificationEvaluation-via-DeepLearning/blob/master/Code.zip)
-
-## Performance
-
-
-
-
-
-
-
 
 
 
