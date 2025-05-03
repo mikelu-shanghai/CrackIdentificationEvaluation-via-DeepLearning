@@ -8,7 +8,7 @@
   year={2025},
   volume={35},
   pages={19--30},
-  url={https://doi.org/10.1134/S1054661824701426}
+  url={[https://doi.org/10.1134/S1054661824701426](https://link.springer.com/article/10.1134/S1054661824701426)}
   }
 
 @article{Lu2021EvaluationAC,
